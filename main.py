@@ -31,7 +31,6 @@ def cihan():
 
 if __name__ == '__main__':
     # python main.py
-    print()
     print("Scan Started")
     cihan()
     print("----------------------------------------------------------------------------------------")
