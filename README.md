@@ -5,4 +5,3 @@ Steps
   2. Put all the PDF files to "files" folder
   3. Run launcher.exe
   5. Done
-  6. Go to files folder, all the PDF files have been renamed
